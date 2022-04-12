@@ -1,6 +1,6 @@
 Airbnb Scraper is designed to extract most of the publicly available Airbnb data for home listings. You can get all of the basic data about the listing, all reviews, prices, host/guest details, etc.
 
-## What does Airbnb Scraper do?
+## How to use this unofficial Airbnb API
 
 This scraper will extract all listings for a particular location. Typically, Airbnb will provide only the first 300 results on their website and limit the API to 1000 results. But with our Unofficial Airbnb API, you can access all of them. Now you can: 
 
